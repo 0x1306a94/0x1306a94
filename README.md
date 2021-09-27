@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on `iOS`
-- 🌱 I’m currently learning `iOS` `Golang`
+- 🌱 I’m currently learning `iOS`
 
 
